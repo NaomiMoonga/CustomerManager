@@ -1,3 +1,5 @@
+package org.example;
+
 public class Customer {
 
     private final String name;
@@ -16,4 +18,3 @@ public class Customer {
         return province;
     }
 }
-
